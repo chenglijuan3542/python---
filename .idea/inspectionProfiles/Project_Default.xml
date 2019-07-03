@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="My_project.medical_log.medical_logs.views.forms" />
+          <option value="My_project.medical_log.medical_logs.views.medical_logs" />
+          <option value="My_project.medical_log.medical_log.urls.login" />
+          <option value="My_project.medical_log.medical_log.urls.medical_logs" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
